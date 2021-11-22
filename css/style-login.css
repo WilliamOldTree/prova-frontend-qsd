@@ -1,0 +1,9 @@
+@media (max-width: 576px) {
+    .ola{
+        display: none !important;
+    } 
+
+    #register{
+        display: inline-block !important;
+    }
+}
